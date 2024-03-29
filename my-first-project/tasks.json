@@ -1,0 +1,19 @@
+// набор задач (3 задачи)
+
+[
+  {
+    "id": 1,
+    "description": "Выучить JS",
+    "status": "process"
+  },
+  {
+    "id": 2,
+    "description": "Выучить React",
+    "status": "сompleted"
+  },
+  {
+    "id": 3,
+    "description": "Сделать домашку",
+    "status": "not started"
+  }
+]
